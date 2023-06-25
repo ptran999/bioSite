@@ -9,7 +9,7 @@ Quy Tran bioSite
     <title>bioSite</title>↩
 </head>↩
 <body>↩
-    <h1>WEB 200 FUndamentals of Web Developement</h1>↩
+    <h1>WEB 200 Fundamentals of Web Developement</h1>↩
     <h2>Contributors</h2>↩
   <ul>↩
   <li>Cristy Cross </li>↩
